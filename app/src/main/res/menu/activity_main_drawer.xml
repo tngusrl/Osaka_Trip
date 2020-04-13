@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_날씨"
+            android:icon="@drawable/ic_wb_sunny_24px"
+            android:title="날씨" />
+        <item
+            android:id="@+id/nav_여행정보"
+            android:icon="@drawable/ic_local_cafe_24px"
+            android:title="여행정보" />
+        <item
+            android:id="@+id/nav_팁"
+            android:icon="@drawable/ic_create_24px"
+            android:title="여행 팁" />
+        <item
+            android:id="@+id/nav_회화"
+            android:icon="@drawable/ic_g_translate_24px"
+            android:title="회화" />
+
+        <item
+            android:id="@+id/nav_준비물"
+            android:icon="@drawable/ic_work_24px"
+            android:title="준비물" />
+
+        <item
+            android:id="@+id/nav_즐겨찾기"
+            android:icon="@drawable/ic_bookmark_border_24px"
+            android:title="즐겨찾기" />
+
+        <item
+            android:id="@+id/nav_캘린더"
+            android:icon="@drawable/ic_today_24px"
+            android:title="캘린더" />
+
+        <item
+            android:id="@+id/nav_지도"
+            android:icon="@drawable/ic_map_24px"
+            android:title="지도" />
+
+        <item
+            android:id="@+id/nav_지하철"
+            android:icon="@drawable/ic_train_24px"
+            android:title="지하철" />
+
+        <item
+            android:id="@+id/nav_업데이트버전"
+            android:icon="@drawable/ic_update_24px"
+            android:title="업데이트 버전" />
+    </group>
+
+</menu>

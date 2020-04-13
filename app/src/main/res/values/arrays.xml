@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="restext">
+
+        <item>"여권"</item>
+        <item>"여권사본"</item>
+        <item>"여권사진"</item>
+        <item>"체크카드"</item>
+        <item>"환전한 돈"</item>
+        <item>"한국 돈"</item>
+        <item>"지갑"</item>
+        <item>"동전지갑"</item>
+        <item>"여행용 책"</item>
+        <item>"옷"</item>
+        <item>"모자"</item>
+        <item>"보조배터리"</item>
+        <item>"휴대폰 충전기"</item>
+        <item>"이어폰"</item>
+        <item>"돼지코"</item>
+        <item>"선크림"</item>
+        <item>"선글라스"</item>
+        <item>"라면"</item>
+        <item>"볼펜"</item>
+        <item>"수첩"</item>
+        <item>"비상약"</item>
+        <item>"바우처"</item>
+        <item>"패스"</item>
+        <item>"빨래 지퍼백"</item>
+        <item>"슬리퍼"</item>
+        <item>"세면도구"</item>
+        <item>"여행용 티슈"</item>
+        <item>"멀티어댑터"</item>
+        <item>"셀카봉"</item>
+        <item>"예비안경"</item>
+        <item>"안경닦이"</item>
+        <item>"렌즈"</item>
+        <item>"물병"</item>
+        <item>"휴대용 가방"</item>
+
+    </array>
+
+</resources>
